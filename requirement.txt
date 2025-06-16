@@ -1,0 +1,24 @@
+"Hello, this is the correct code"
+streamlit
+apscheduler
+pandas
+numpy
+scipy
+talib
+moneycontrol api
+nltk
+vaderSentiment
+nselib
+beautifulsoup4
+streamlit
+apscheduler
+pandas
+numpy
+scipy
+talib
+moneycontrol api
+nltk
+vaderSentiment
+nselib
+beautifulsoup4 
+pandas market calendar
